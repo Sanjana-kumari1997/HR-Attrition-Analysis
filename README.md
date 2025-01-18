@@ -60,11 +60,6 @@ This project demonstrates the capability of **Microsoft Excel** for HR data anal
 
 ---
 
-## **How to Use**
-1. Download the project files.
-2. Open the **Excel file** to explore the raw data, pivot tables, and dashboard.
-3. Navigate through the dashboard to gain insights and identify patterns.
 
----
 
 
