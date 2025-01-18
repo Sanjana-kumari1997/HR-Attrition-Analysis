@@ -36,20 +36,19 @@ To identify key factors contributing to employee attrition and provide actionabl
 
 ## **Project Learnings**
 
-1. **Data Cleaning and Transformation**:
-   - Processed raw data using **filters, sorting, and conditional formatting** in Excel.
+- Used **Excel** to clean, transform, and analyze HR data.
+- Applied **pivot tables** for trend analysis across key metrics like gender, age, and qualifications.
+- Created visualizations using **charts** (bar, pie, and column) to present attrition insights.
+- Developed an interactive **dashboard** to showcase attrition data and provide actionable insights.
 
-2. **Analysis with Pivot Tables**:
-   - Created **pivot tables** to analyze attrition across dimensions like gender, age, department, and job role.
+---
 
-3. **Visualizations**:
-   - Designed charts such as **pie charts, bar charts, and column charts** to represent data trends clearly.
+## **Attrition Factors and Strategies**
 
-4. **Insights and Recommendations**:
-   - Extracted actionable insights from visualizations to propose strategies for **improving employee retention**.
-
-5. **Dashboard Creation**:
-   - Built an **interactive and comprehensive dashboard** in Excel to visually represent insights.
+- Laboratory Technicians, Sales Executives, and Research Scientists need retention strategies.
+- Younger employees (25–34) and singles are more likely to leave, needing engagement programs.
+- R&D and Sales face the highest attrition, suggesting workload or leadership challenges.
+- Bachelor’s Degree holders show the highest attrition, highlighting a need for upskilling.
 
 ---
 
